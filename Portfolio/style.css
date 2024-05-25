@@ -332,16 +332,16 @@ header nav .nav-links a.active{
     .contanier{
         width: 90%;
     }
-    .hero .content h1{
+    .her .content h1{
         font-size: 50px;
     }
-    .hero .content p{
+    .her .content p{
         font-size: 25px;
     }
-    .hero .hero-img img{
+    .her .her-img img{
         width: 380px;
     }
-    .hero{
+    .her{
         padding-bottom: 40px;
     }
     .about .content h3{
@@ -362,13 +362,13 @@ header nav .nav-links a.active{
 
 }
 @media(max-width:900px){
-    .hero .content h1{
+    .her .content h1{
         font-size: 40px;
     }
-    .hero .content p{
+    .her .content p{
         font-size: 22px;
     }
-    .hero .hero-img img{
+    .her .her-img img{
         width: 340px;
     }
     header nav .nav-links a{
@@ -393,16 +393,16 @@ header nav .nav-links a.active{
     }
 }
 @media(max-width:780px){
-    .hero .contanier{
+    .her .contanier{
         flex-direction: column-reverse;
     }
-    .hero .hero-img img{
+    .her .her-img img{
         width: 380px;
     }
-    .hero .content h1{
+    .her .content h1{
         font-size: 50px;
     }
-    .hero .content{
+    .her .content{
         margin-top: 40px;
         text-align: center;
     }
@@ -442,10 +442,10 @@ header nav .nav-links a.active{
     }
 }
 @media(max-width:670px){
-    .hero .content h1{
+    .her .content h1{
         font-size: 40px;
     }
-    .hero .hero-img img{
+    .her .her-img img{
         width: 320px;
     }
     .boxs{
@@ -460,13 +460,12 @@ header nav .nav-links a.active{
     }
 }
 @media(max-width:500px){
-    .hero .hero-img img{
+    .her .her-img img{
         width: 280px;
     }
     .footer form{
         width: 90%;
         justify-content: center;
-
     }
     .footer form input{
         width: 100%;
